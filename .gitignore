@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 logs
 project/project
 project/target
@@ -15,3 +16,22 @@ dist
 /.settings
 
     
+=======
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+>>>>>>> 1659d4de0df8de6aaa747243e8ad33d54c5faa88
